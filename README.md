@@ -9,7 +9,7 @@ Beesoft Components is a collection of components that can be used to manage data
 The current list of components are
 
 * Form
-  * Date/Time
+  * [Date/Time](forms/date-time/)
   * Inputs
     * Content Editable Input
     * Formatted Input
