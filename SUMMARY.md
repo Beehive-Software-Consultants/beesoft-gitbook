@@ -2,13 +2,13 @@
 
 * [Beesoft Components](README.md)
 
-## Forms
+## Form
 
-* [Date/Time](forms/date-time/README.md)
-  * [Date/Time Types](forms/date-time/date-time-types.md)
-* [Inputs](forms/inputs/README.md)
-  * [Content Editable Input](forms/inputs/content-editable-input.md)
-  * [Formatted Input](forms/inputs/formatted-input.md)
+* [Date/Time](form/date-time/README.md)
+  * [Date/Time Types](form/date-time/date-time-types.md)
+* [Inputs](form/inputs/README.md)
+  * [Content Editable Input](form/inputs/content-editable-input.md)
+  * [Formatted Input](form/inputs/formatted-input.md)
 
 ## Mobile
 

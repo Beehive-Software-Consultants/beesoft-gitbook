@@ -9,14 +9,14 @@ Beesoft Components is a collection of components that can be used to manage data
 The current list of components are
 
 * Form
-  * [Date/Time](forms/date-time/)
-  * Inputs
-    * Content Editable Input
-    * Formatted Input
+  * [Date/Time](form/date-time/)
+  * [Inputs](form/inputs/)
+    * [Content Editable Input](form/inputs/content-editable-input.md)
+    * [Formatted Input](form/inputs/formatted-input.md)
 * Mobile
-  * Overlay
+  * [Overlay](mobile/overlay.md)
 * Navigation
-  * Buttons
-    * Button
+  * [Buttons](navigation/buttons/)
+    * [Button](navigation/buttons/button.md)
 * Overlay
-  * Overlay Panel
+  * [Overlay Panel](overlay/overlay-panel.md)
