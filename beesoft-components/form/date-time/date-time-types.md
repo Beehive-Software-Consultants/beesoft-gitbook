@@ -19,9 +19,9 @@ enum DateSelectionType {
 
 ```typescript
 enum DateFormatType {
-  Short,
-  Medium,
-  Long,
+  Short = 0,
+  Medium = 1,
+  Long = 2,
 }
 ```
 
@@ -49,8 +49,8 @@ interface IncrementConstraint {
 
 ```typescript
 enum CalendarIconPosition {
-  Right,
-  Left,
-  None,
+  Right = 0,
+  Left = 1,
+  None = 2,
 }
 ```

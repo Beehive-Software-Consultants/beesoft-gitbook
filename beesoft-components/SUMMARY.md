@@ -21,4 +21,5 @@
 
 ## Overlay
 
-* [Overlay Panel](overlay/overlay-panel.md)
+* [Overlay Panel](overlay/overlay-panel/README.md)
+  * [Overlay Panel Types](overlay/overlay-panel/overlay-panel-types.md)

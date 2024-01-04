@@ -19,4 +19,4 @@ The current list of components are
   * [Buttons](navigation/buttons/)
     * [Button](navigation/buttons/button.md)
 * Overlay
-  * [Overlay Panel](overlay/overlay-panel.md)
+  * [Overlay Panel](overlay/overlay-panel/)
